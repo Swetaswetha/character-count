@@ -16,9 +16,9 @@ Attractive design using HTML, CSS, and JavaScript
   HTML5
   CSS3
   JavaScript
-  Project Structure
-
-# Live-Character-Counter/
+  
+  # Project Structure
+Live-Character-Counter/
 │
 ├── index.html(style.css)
 ├── script.js
