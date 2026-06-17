@@ -1,4 +1,4 @@
-##Live Character Counter
+Live Character Counter
  #Project Description
 
 Live Character Counter is a simple web application that allows users to type text in a textarea and view the number of characters entered in real time.
