@@ -26,5 +26,4 @@ Live-Character-Counter/
 
 └── README.md
 
-Custom character limits
-Character progress bar
+Project link:""
