@@ -20,10 +20,10 @@ Attractive design using HTML, CSS, and JavaScript
   # Project Structure
 Live-Character-Counter/
 
-│
 ├── index.html(style.css)
 
 ├── script.js
+
 └── README.md
 
 Custom character limits
