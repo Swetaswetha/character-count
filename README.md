@@ -26,4 +26,10 @@ Live-Character-Counter/
 
 └── README.md
 
-Project link:""
+ project link:"https://swetaswetha.github.io/character-count/"
+
+
+
+
+
+
